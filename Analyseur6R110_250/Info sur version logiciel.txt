@@ -1,0 +1,24 @@
+AnalyseurBUSCANLudo V1.2 | 22/09/2025
+
+- Code stable sur écran.
+- Intégration du réglage WIFI avec saisie manuelle des champs SSID / Password.
+- Diniution des tailles d'image en mémoire flash.
+- Passage des pages à l'usage avec destruction lorsque l'on en a plus besoin.
+
+AnalyseurBUSCANLudo V1.3 | 27/09/2025
+
+- Satbilisation des plantages dans la navigation des pages
+- suppression des lectures lors de retour en arrière pour réglage d'un freeze d'écran.
+- Satbilisation de la connexion wifi avec ajout d'un bouton " Se connecter " et " Déconnecter " avec effect d'appui et changement de couleur.
+- Nettoyage du code.
+
+AnalyseurBUSCANLudo V1.4 | 30/09/2025
+
+- Ajout d'une page de configuration d'une connexion MQTT.
+- Ajout d'une icone MQTT dans le coin gauche lorsque la connexion est établie avec un refresh d'état régulier.
+- Démarrage du serveur Node-Red, constitution des pages.
+
+AnalyseurBUSCANLudo V1.7 | 14 / 10 / 2025
+
+- Stabilisation de la connection wifi et Mqtt avec bouton rouge de déconnexion lorsque la connection est réussit cote wifi et Mqtt
+- Ajout d'un badge sur toutes les pages pour la version logiciel.
